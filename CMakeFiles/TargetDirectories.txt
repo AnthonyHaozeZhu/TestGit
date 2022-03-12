@@ -1,0 +1,5 @@
+/Users/zhuhaoze/Desktop/南开大学/TestGit/CMakeFiles/edit_cache.dir
+/Users/zhuhaoze/Desktop/南开大学/TestGit/CMakeFiles/rebuild_cache.dir
+/Users/zhuhaoze/Desktop/南开大学/TestGit/src/CMakeFiles/main.dir
+/Users/zhuhaoze/Desktop/南开大学/TestGit/src/CMakeFiles/edit_cache.dir
+/Users/zhuhaoze/Desktop/南开大学/TestGit/src/CMakeFiles/rebuild_cache.dir
